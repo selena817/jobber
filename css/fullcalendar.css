@@ -500,14 +500,13 @@ We use the full "fc-day-grid-event" class instead of using descendants because t
 be a descendant of the grid when it is being dragged.
 */
 .fc-day-grid-event {
-  margin: 5px;
+  margin: 5px 5px 10px;
   box-shadow:2px 2px 2px 2px hsla(0,0%,46%,.2);
   background: white;
   color: #666;
-  height: 70px;
   border: 1px solid transparent;
   /* spacing between events and edges */
-  padding: 0 10px; }
+  padding: 20px 10px 15px; }
 
 tr:first-child > td > .fc-day-grid-event {
   margin-top: 5px;

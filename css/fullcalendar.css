@@ -215,12 +215,14 @@ hr.fc-divider {
   border-width: 1px;
   padding: 30px;
   vertical-align: top;
+  background: white;
   text-align: center; }
 
 .fc td {
   border-style: solid;
   border-width: 1px;
   padding: 0;
+  background: #f2f2f2;
   vertical-align: top; }
 
 .fc td.fc-today {

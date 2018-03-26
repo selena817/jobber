@@ -353,6 +353,7 @@ temporary rendered events).
   color: #fff;
   /* default TEXT color */
   text-decoration: none;
+  background: rgba(83,190,190,.6);
   /* if <a> has an href */ }
 
 .fc-event[href],
